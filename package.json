@@ -1,0 +1,14 @@
+{
+    "name": "composer-client-lab",
+    "version": "1.0.0",
+    "description": "Composer Client Lab",
+    "main": "add-collector.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "cli-table": "^0.3.1",
+        "composer-client": "^0.20.1"
+    },
+    "license": "Apache-2.0"
+}
